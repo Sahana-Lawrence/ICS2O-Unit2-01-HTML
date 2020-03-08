@@ -1,15 +1,22 @@
+body {
+  background-color: yellow;
+}
+
 #demo {
   color: dodgerblue;
 }
+
 h1 {
   color: teal;
   text-align: center;
 }
+
 h2 {
   color: red;
   text-align: center;
 }
-p {
+
+h3 {
   text-align: justify;
-  margin: 5;
+  color: green;
 }
